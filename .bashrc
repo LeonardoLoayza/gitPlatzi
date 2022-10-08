@@ -1,1 +1,0 @@
-alias leo=ls -l\
